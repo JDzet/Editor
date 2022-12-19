@@ -1,0 +1,18 @@
+K:\Users\Yaros\Documents\Visual Studio 2022\project\По новой\bin\Debug\По новой.exe.config
+K:\Users\Yaros\Documents\Visual Studio 2022\project\По новой\bin\Debug\По новой.exe
+K:\Users\Yaros\Documents\Visual Studio 2022\project\По новой\bin\Debug\По новой.pdb
+K:\Users\Yaros\Documents\Visual Studio 2022\project\По новой\bin\Debug\EntityFramework.dll
+K:\Users\Yaros\Documents\Visual Studio 2022\project\По новой\bin\Debug\EntityFramework.SqlServer.dll
+K:\Users\Yaros\Documents\Visual Studio 2022\project\По новой\bin\Debug\EntityFramework.xml
+K:\Users\Yaros\Documents\Visual Studio 2022\project\По новой\bin\Debug\EntityFramework.SqlServer.xml
+K:\Users\Yaros\Documents\Visual Studio 2022\project\По новой\obj\Debug\По новой.csproj.AssemblyReference.cache
+K:\Users\Yaros\Documents\Visual Studio 2022\project\По новой\obj\Debug\По новой.csproj.SuggestedBindingRedirects.cache
+K:\Users\Yaros\Documents\Visual Studio 2022\project\По новой\obj\Debug\По_новой.Author.resources
+K:\Users\Yaros\Documents\Visual Studio 2022\project\По новой\obj\Debug\По_новой.Properties.Resources.resources
+K:\Users\Yaros\Documents\Visual Studio 2022\project\По новой\obj\Debug\По_новой.Catalog.resources
+K:\Users\Yaros\Documents\Visual Studio 2022\project\По новой\obj\Debug\По новой.csproj.GenerateResource.cache
+K:\Users\Yaros\Documents\Visual Studio 2022\project\По новой\obj\Debug\По новой.csproj.CoreCompileInputs.cache
+K:\Users\Yaros\Documents\Visual Studio 2022\project\По новой\obj\Debug\По новой.csproj.CopyComplete
+K:\Users\Yaros\Documents\Visual Studio 2022\project\По новой\obj\Debug\По новой.exe
+K:\Users\Yaros\Documents\Visual Studio 2022\project\По новой\obj\Debug\По новой.pdb
+K:\Users\Yaros\Documents\Visual Studio 2022\project\По новой\obj\Debug\По_новой.editintProduct.resources
